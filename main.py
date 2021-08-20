@@ -1,4 +1,5 @@
-
+with open("./Input/Names/invited_names.txt") as names_file:
+    names_file.read()
 
 
 
